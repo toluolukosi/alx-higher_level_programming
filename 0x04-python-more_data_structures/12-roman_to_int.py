@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 def to_subtract(list_num):
     to_sub = 0
@@ -39,4 +38,3 @@ def roman_to_int(roman_string):
     num += to_subtract(list_num)
 
     return (num)
-
